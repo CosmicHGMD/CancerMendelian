@@ -8,4 +8,4 @@ cancer genes can be classified into two types: Oncogene and Tumor suppressor. On
 
 So we identified overlapping mutations between cancer somatic mutations and Mendelian disease pathogenic mutations. If there is a highly recurrent overlapping mutation within a gene, then potentially this gene can be oncogene. If there is multiple overlapping mutations within a gene, then potentially this gene can be tumor suppressor.
 
-Cancer somatic mutations are from COSMIC Version 73,  Mendelian disease pathogenic mutations are from HGMD profession 2015 version. 
+Cancer somatic mutations are from COSMIC Version 73,  Mendelian disease pathogenic mutations are from HGMD profession 2015 version. We also adopted two controls. 
