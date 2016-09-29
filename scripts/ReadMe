@@ -1,2 +1,2 @@
 
-In this study, COSMIC, HGMD, 1000 Genome Phase3, ExAC, were loaded into MySql database. Most results of Figure 1, Figure 2, Figure 3, Table1 Table2, and Table3 were generated using SQL scripts. The exonic snps from 1000 Genome Phases3 were identified using bedtools.  
+In this study, COSMIC, HGMD, 1000 Genome Phase3, ExAC, were loaded into MySql database. Most results of Figure 1, Figure 2, Figure 3, Table1 Table2, and Table3 were generated using SQL scripts. The exonic snps from 1000 Genome Phases3 were identified using bedtools. The statistical test in Table1 was relaized using t.test() of R. 
