@@ -14,6 +14,6 @@ COSMIC V73 can be downloaded from sftp-cancer.sanger.ac.uk using GUI client WinS
 
 The main scripts can be found in scripts folder.
 
-If you have any questions, please contace Meng, mengma2@gmail.com, meng.ma@mssm.edu
+If you have any questions, please contact Meng, mengma2@gmail.com, meng.ma@mssm.edu
 
 
